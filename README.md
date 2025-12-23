@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [active directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [active directory home lab
 
 <h2> Certifications</h2>
 
